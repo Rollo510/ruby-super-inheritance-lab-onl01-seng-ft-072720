@@ -1,0 +1,18 @@
+class ChattyStudent < Student
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+end
